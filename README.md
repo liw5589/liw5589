@@ -1,10 +1,12 @@
-### Hi there 👋
+### MinSeok.Kim GitHub 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liw5589&show_icons=true&theme=radical)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning about C, C++, Cuda C
-👯 We can meet on My Tistroy https://steve-coding.tistory.com/
+- 👯 We can meet on My Tistroy https://steve-coding.tistory.com/
+
+<a href="https://steve-coding.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-FFFFFF?style=social&logo=tistory&logoColor=000000"/></a>
 <!--
 **liw5589/liw5589** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
