@@ -12,7 +12,7 @@
 
 <a href="https://steve-coding.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/C++-FFFFFF?style=social&logo=C&logoColor=000000"/></a>
 
-<a href="https://steve-coding.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/C++-FFFFFF?style=social&logo=C&logoColor=76B900"/></a>
+<a href="https://steve-coding.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/NVIDIA-FFFFFF?style=social&logo=NVIDIA&logoColor=76B900"/></a>
 <!--
 **liw5589/liw5589** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
