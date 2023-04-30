@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning about C, C++, Cuda C
-- 👯 We can meet on My Tistroy https://steve-coding.tistory.com/
+- 👯 We can meet on My TistoRy https://steve-coding.tistory.com/
 
 <a href="https://steve-coding.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Developer STEVE-FFFFFF?style=social&logo=tistory&logoColor=000000"/></a>
 
